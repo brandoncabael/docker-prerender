@@ -6,6 +6,6 @@
   "author": "Paolo Scanferla <paolo.scanferla@mondora.com>",
   "license": "MIT",
   "dependencies": {
-    "prerender": "^4.0.7"
+    "prerender": "^5.4.2"
   }
 }
